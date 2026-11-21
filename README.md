@@ -1,23 +1,34 @@
 # Hi, I’m Matthew Fay
 
-I build C#/.NET applications and practical tools. I’m based in Houston and looking for C#/.NET development opportunities. Outside of application development, I make games and experiment with game engines.
+I build C#/.NET applications and practical tools. I’m based in Houston and looking for C#/.NET development opportunities. I also enjoy game development, especially the systems behind loading worlds, rendering, and gameplay.
 
 ## Selected projects
 
-### [Notebook](https://github.com/matthewafay/NoteBook-Codex-Test)
-A C# notebook application with a shared core, a command-line interface, and a WPF desktop UI. Both interfaces use the same JSON-backed note storage.
+### HL1GODOT — C# / Godot
+A Half-Life 1 recreation in Godot with C#. The project includes BSP map importing, WAD texture extraction, MDL model loading and animation, and entity and player systems.
 
-**C# · .NET · WPF · CLI · JSON persistence**
+**C# · .NET · Godot · Binary file formats · 3D game systems**
 
-### [GrabIt](https://github.com/matthewafay/GrabIt)
-A Windows screenshot, annotation, and GIF recording tool built in Rust. Includes an editable document format, command-based undo/redo, and downloadable releases.
+*Source repository is currently private.*
+
+### RootFall — Multiplayer action RPG
+A browser-based action RPG with a TypeScript/Node.js backend and a JavaScript game client. Includes WebSocket networking, SQLite/MSSQL support, backend tests, and Azure deployment workflows.
+
+**TypeScript · Node.js · WebSockets · SQL · Azure**
+
+*Source repository is currently private.*
+
+### [GrabIt](https://github.com/matthewafay/GrabIt) — Windows desktop utility
+A screenshot, annotation, and GIF recording tool built in Rust. Includes an editable document format, command-based undo/redo, and downloadable Windows releases.
 
 **Rust · Windows desktop · Dioxus · Image processing**
+
+## For fun
+
+[RubixMenu](https://github.com/matthewafay/RubixMenu) is a deliberately awkward pizza-ordering interface built around an interactive 3D Rubik’s cube. A small Three.js experiment in raycast picking, interaction, and cart state—with a demo GIF in the repository.
 
 ## What I enjoy building
 
 - C# applications with clear boundaries between logic, storage, and UI
-- Practical desktop utilities that solve everyday problems
-- Small games as a way to explore rendering, input, and procedural generation
-
-Browse the projects above for source code, setup instructions, and available releases.
+- Practical tools that solve everyday problems
+- Game systems, import pipelines, and interactive experiments
