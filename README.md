@@ -14,11 +14,6 @@ A Windows screenshot, annotation, and GIF recording tool built in Rust. Includes
 
 **Rust · Windows desktop · Dioxus · Image processing**
 
-### [TurDay](https://github.com/matthewafay/Turday)
-A C# arcade game built with WinForms and a custom text-grid renderer. Features procedural level generation, collision handling, unlockable characters, and persistent saves. The repository includes gameplay footage and Windows releases.
-
-**C# · .NET · WinForms · Game development**
-
 ## What I enjoy building
 
 - C# applications with clear boundaries between logic, storage, and UI
